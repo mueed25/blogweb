@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nav-color{
+    background-color: #040d12;
+}
+
+.fonts{
+    font-weight: 600;
+    font-size: 1.7rem;
+}
+.list{
+    /* font-family: 'Patua One'; */
+}
+.bod{
+    border-top: 1px solid white;
+    transition-duration: 500ms;
+    position: absolute;
+    width: 100%;
+}
